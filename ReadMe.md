@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Psamcyite&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Psamcyite&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psamcyite&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psamcyite&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psamcyite&show_icons=true&count_private=true&hide=stars,contribs)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Psamcyite&theme=radical&no-frame=false&no-bg=false&margin-w=4)
