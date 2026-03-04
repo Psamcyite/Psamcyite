@@ -1,5 +1,7 @@
 # Samuel Amojo
 
+![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
 ### Senior Frontend Developer | React • TypeScript • Data Driven Web Applications
 
 Frontend engineer focused on building **high performance, scalable web applications** and developer tools.  
@@ -52,7 +54,7 @@ Modern portfolio showcasing animated UI, 3D interactions, and developer integrat
 
 ## Open Source & Collaboration
 
-I enjoy contributing to open-source projects and collaborating with engineers building impactful software.  
+I enjoy contributing to open source projects and collaborating with engineers building impactful software.  
 Always open to discussing ideas, architecture decisions, and innovative developer tools.
 
 ---
