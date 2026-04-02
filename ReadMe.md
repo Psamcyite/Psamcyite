@@ -2,9 +2,9 @@
 
 Senior Frontend Developer (React • TypeScript • Next.js)
 
-I build scalable, high-performance web applications and data-driven user interfaces.
+I build scalable, high performance web applications and data driven user interfaces.
 
-Frontend developer with 6+ years of experience working with React and TypeScript, focused on building reliable products used in real world environments. I enjoy solving complex problems, improving application performance, and creating user interfaces that are intuitive and maintainable.
+Frontend developer with over 6 years of experience working with React and TypeScript, focused on building reliable products used in real world environments. I enjoy solving complex problems, improving application performance, and creating user interfaces that are intuitive and maintainable.
 
 Open to relocation and visa sponsorship opportunities in Germany / EU.
 
