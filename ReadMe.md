@@ -1,80 +1,93 @@
 # Samuel Amojo
 
-![](https://raw.githubusercontent.com/Speemax/.github/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+Senior Frontend Developer (React • TypeScript • Next.js)
 
-### Senior Frontend Developer | React • TypeScript • Data Driven Web Applications
+I build scalable, high-performance web applications and data-driven user interfaces.
 
-Frontend engineer focused on building **high performance, scalable web applications** and developer tools.  
-I specialize in the modern **React & TypeScript ecosystem**, creating **data rich dashboards, intuitive user interfaces, and scalable frontend architectures**.
+Frontend developer with 6+ years of experience working with React and TypeScript, focused on building reliable products used in real world environments. I enjoy solving complex problems, improving application performance, and creating user interfaces that are intuitive and maintainable.
 
-I enjoy solving complex product challenges, designing powerful analytics interfaces, and collaborating with teams to build reliable software that improves real world workflows.
+Open to relocation and visa sponsorship opportunities in Germany / EU.
 
 ---
 
-## Core Expertise
+## What I Focus On
 
-- Frontend Architecture (React, Next.js, TypeScript)
-- Data Rich Dashboards and Analytics Interfaces
-- UI Performance Optimization and Scalability
-- State Management (Redux Toolkit, RTK Query, React Query)
-- API Integration and Backend Collaboration
-- Automated Testing (Jest, Cypress)
-- CI/CD Workflows and Developer Experience
+- Building scalable frontend architectures using React and Next.js  
+- Developing data rich dashboards and interactive user interfaces  
+- Performance optimization (Core Web Vitals, lazy loading, code splitting)  
+- Writing clean, maintainable, and reusable component based code  
+- Integrating APIs and collaborating with backend systems  
+
+---
+
+## Selected Projects
+
+### Mishiraya's Kitchen
+Restaurant website built with Next.js and Tailwind CSS  
+Focus: responsive UI, performance optimization, API integration  
+Live: https://www.mishiraya-kitchen.co.uk
+
+### DevBuddy (In Progress)
+Developer platform built using a monorepo architecture (Turborepo) to manage shared packages, UI components, and multiple applications. 
+
+### Interactive Portfolio
+Modern developer portfolio with animated UI and 3D components using React and Three.js  
+https://psamcyite-portfolio.vercel.app
+
+### Speemax Technologies Platform
+Development of scalable web interfaces and internal tools using React, TypeScript, and Tailwind CSS  
 
 ---
 
 ## Tech Stack
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • Three.js
+Frontend  
+React • Next.js • TypeScript • Tailwind CSS • Three.js  
 
-### Data Visualization & UI
-Recharts • Chart.js • D3.js • TanStack Table • AG Grid
+State & Data  
+Redux Toolkit • RTK Query • React Query • Zustand  
 
-### State & Data
-Redux Toolkit • RTK Query • React Query • Zustand
+Data Visualization & UI  
+Recharts • Chart.js • TanStack Table  
 
-### Backend & APIs
-Node.js • NestJS • GraphQL • MongoDB
+Backend  
+Node.js • NestJS • REST APIs • GraphQL  
 
-### DevOps & Tools
-Git • Docker • AWS • Nginx • CI/CD Pipelines
+DevOps & Architecture  
+Docker • AWS • CI/CD • Monorepo (Turborepo / pnpm workspaces) 
 
----
+## Architecture & Systems
 
-## Featured Projects
-
-### DevBuddy
-Developer productivity platform that helps engineers discover development tools, workflows, and resources to improve efficiency and productivity.
-
-### Interactive Developer Portfolio
-Modern portfolio showcasing animated UI, 3D interactions, and developer integrations built with React, WebGL, and modern frontend tooling.
+- Monorepo architecture using Turborepo / pnpm workspaces  
+- Shared UI component systems across multiple applications  
+- Modular frontend architecture for scalability and maintainability  
 
 ---
 
-## Open Source & Collaboration
+## Engineering Approach
 
-I enjoy contributing to open source projects and collaborating with engineers building impactful software.  
-Always open to discussing ideas, architecture decisions, and innovative developer tools.
+- Writing clean, maintainable, and well structured code  
+- Improving performance through optimization techniques and best practices  
+- Building reusable UI systems and component libraries  
+- Working closely with designers and backend engineers  
+- Maintaining high code quality through reviews and testing  
 
 ---
 
-## Currently Exploring
+## Note
 
-- Advanced **Next.js architecture and performance**
-- **Data visualization systems** for analytics platforms
-- Scalable **developer platforms and tooling**
+Some production applications and client projects are maintained in private repositories due to company ownership and client confidentiality.
 
 ---
 
 ## Connect With Me
 
 GitHub  
-https://github.com/Psamcyite
+https://github.com/Psamcyite  
 
 Portfolio  
-https://psamcyite-portfolio.vercel.app
+https://psamcyite-portfolio.vercel.app  
 
 ---
 
-⭐ Always learning. Always building.
+Always learning. Always building.
